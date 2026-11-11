@@ -1,0 +1,1 @@
+# safarsathi-trip-planner
